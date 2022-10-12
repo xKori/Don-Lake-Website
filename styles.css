@@ -1,0 +1,117 @@
+
+.navbar a {
+  color: white;
+}
+
+.navbar {
+  background-color: black !important;
+}
+
+
+.navbar-dark .navbar-toggler-icon {
+  background-image: url("data:image/svg+xml;..");
+}
+
+.navbar-brand {
+  font-weight: 500;
+  text-transform: uppercase;
+  font-size: 1rem !important;
+}
+
+h3 {
+  font-size: 1.5rem !important;
+}
+
+p {
+  font-size: 1rem;
+
+}
+
+
+.mobile-homepage {
+  padding: 1rem; 
+}
+
+.hero-section-mobile {
+  text-transform: uppercase;
+}
+
+.hero-section-mobile h1 {
+  color: black;
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.years {
+  color: red;
+  font-size: 2rem;
+}
+
+.hero-section-mobile p {
+  width: 20rem;
+  font-size: 1.5rem;
+  line-height: 1.5rem;
+  margin-top: 2rem;
+  font-weight: bold;
+}
+
+.personal-injury-list {
+  padding-top: 2rem;
+}
+
+.personal-injury-list h1 {
+  font-weight: bold;
+  text-transform: uppercase;
+  font-size: 2rem;
+  color: black;
+}
+
+.other-details {
+  margin-top: 5rem;
+}
+
+.other-details h1 {
+  font-size: 1.5rem;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: black;
+}
+
+a:hover {
+  color: lightgray !important;
+}
+
+a:active {
+  color: red;
+}
+
+.faq {
+  padding: 1rem;
+}
+
+.faq h1 {
+  margin-bottom: 2rem;
+  font-weight: bold;
+  font-size: 2rem;
+}
+
+.qna {
+  margin-bottom: 2rem;
+}
+
+.qna img {
+  height: 1.8rem !important;
+}
+
+.practice-areas-container {
+  padding: 1rem;
+}
+
+.practice-areas-container h1 {
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.practice-area {
+  margin-top: 2rem;
+}
