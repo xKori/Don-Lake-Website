@@ -115,3 +115,20 @@ a:active {
 .practice-area {
   margin-top: 2rem;
 }
+
+.biography-container {
+  padding: 1rem;
+}
+
+.biography-container h1 {
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.biography-container h2 {
+  font-size: 1.8rem;
+}
+
+.biography-title {
+  margin-bottom: 2rem;
+}
