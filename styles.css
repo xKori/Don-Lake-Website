@@ -89,10 +89,13 @@ a:active {
   padding: 1rem;
 }
 
+.page-title {
+  font-size: 2rem;
+  font-weight: bold;
+}
+
 .faq h1 {
   margin-bottom: 2rem;
-  font-weight: bold;
-  font-size: 2rem;
 }
 
 .qna {
