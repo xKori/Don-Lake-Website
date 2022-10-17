@@ -135,3 +135,19 @@ a:active {
 .biography-title {
   margin-bottom: 2rem;
 }
+
+.contact-container {
+  padding: 1rem;
+}
+
+.contact-info {
+  margin-top: 2rem;
+}
+
+.contact-info h3 {
+  margin-top: 2rem;
+}
+
+.contact-info p {
+  font-size: 1.5rem;
+}
